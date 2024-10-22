@@ -3,8 +3,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
 
 body {
-    color: blue ;
-    background-color: black;
+    color: #808080 ;
+    background-color: #F5DEB3;
     font-family: Lora;
     font-size: 15px;
 }
@@ -18,8 +18,13 @@ ul{
 }
 
 header img{
-    width: 55%;
+    width: 40%;
     height: 55%px;
     border-radius: 50%;
-    border: 10px solid transparent;
+    border: 30% solid transparent;
+}
+
+header img{
+    align-content: center;
+    align-items: center;
 }
